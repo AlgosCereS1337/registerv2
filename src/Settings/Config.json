@@ -1,0 +1,32 @@
+{
+
+    "Roles": {
+        "BoyRole1": "1006272503657791549",
+        "GirlRole1": "1006529862070190153",
+        "Unregister": "1006519905182552125",
+        "Registerer": "1006272058948337814",
+        "ustyetki": "1006272058948337814",
+        "Booster": "1006945625910300673",
+        "Jail": "1006514438880370760"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerID": "1006271921341595718"
+    },
+        "Channels": {
+            "RegisterChat": "1006527140453425193",
+            "RegisterLog": "1006976115816017930",
+            "Rules": "1006527326495981579"
+        },
+        "Welcome": {
+            "WelcomeChat": "1006527140453425193"
+        }
+}
